@@ -1,0 +1,20 @@
+{
+  "name": "freecodecamp",
+  "version": "1.0.0",
+  "description": "Testing back end API's",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./BackEndDevelopment/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mubark25/freecodecamp.git"
+  },
+  "author": "Mubark Hussain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mubark25/freecodecamp/issues"
+  },
+  "homepage": "https://github.com/Mubark25/freecodecamp#readme"
+}
